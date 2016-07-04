@@ -1,0 +1,6 @@
+framework module Pods_drawingapp {
+  umbrella header "Pods-drawingapp-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,5 @@
+
+target 'drawingapp' do
+    use_frameworks!
+    pod 'TouchDraw', '~> 1.2'
+end
